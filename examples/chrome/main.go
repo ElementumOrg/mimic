@@ -5,9 +5,9 @@ import (
 	"io"
 	"os"
 
+	"github.com/ElementumOrg/mimic"
 	tls "github.com/refraction-networking/utls"
 	http "github.com/saucesteals/fhttp"
-	"github.com/saucesteals/mimic"
 )
 
 var (
